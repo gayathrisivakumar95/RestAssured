@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14883" started-at="2021-05-10T13:12:17Z" finished-at="2021-05-10T13:12:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14883" started-at="2021-05-10T13:12:17Z" finished-at="2021-05-10T13:12:32Z">
+      <class name="Test.TestApi">
+        <test-method status="PASS" signature="token()[pri:0, instance:Test.TestApi@53ca01a2]" name="token" is-config="true" duration-ms="6784" started-at="2021-05-10T18:42:17Z" finished-at="2021-05-10T18:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- token -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Test.TestApi@53ca01a2]" name="login" duration-ms="1107" started-at="2021-05-10T18:42:24Z" finished-at="2021-05-10T18:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="getallProducts()[pri:1, instance:Test.TestApi@53ca01a2]" name="getallProducts" duration-ms="2350" started-at="2021-05-10T18:42:25Z" finished-at="2021-05-10T18:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallProducts -->
+        <test-method status="PASS" signature="updateBulkProducts()[pri:2, instance:Test.TestApi@53ca01a2]" name="updateBulkProducts" duration-ms="2643" started-at="2021-05-10T18:42:27Z" finished-at="2021-05-10T18:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBulkProducts -->
+        <test-method status="PASS" signature="Logout()[pri:3, instance:Test.TestApi@53ca01a2]" name="Logout" duration-ms="1963" started-at="2021-05-10T18:42:30Z" finished-at="2021-05-10T18:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- Test.TestApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,117 @@
+[
+  {
+    "product_id": "3281",
+    "model": "demo model",
+    "quantity": "300",
+    "price": "44.00",
+    "tax_class_id": "1",
+    "manufacturer_id": "20",
+    "sku": "demo sku",
+    "product_seo_url": [
+      {
+        "keyword": "hhkjlk-keyword",
+        "language_id": "1",
+        "store_id": "0"
+      }
+    ],
+    "status": "1",
+    "points": 0,
+    "reward": 0,
+    "image": "",
+    "other_images": [
+      ""
+    ],
+    "shipping": "1",
+    "stock_status_id": 0,
+    "upc": "",
+    "ean": "",
+    "jan": "",
+    "isbn": "",
+    "mpn": "",
+    "location": "",
+    "date_available": "2017-05-12",
+    "weight": 0,
+    "weight_class_id": 0,
+    "length": 0,
+    "width": 0,
+    "height": 0,
+    "length_class_id": 0,
+    "subtract": 0,
+    "minimum": 0,
+    "sort_order": "",
+    "product_store": [
+      "0"
+    ],
+    "product_related": [
+      "34"
+    ],
+    "product_filter": [
+      "34"
+    ],
+    "product_description": [
+      {
+        "language_id": "1",
+        "name": "demo name",
+        "description": "Description of the product",
+        "meta_title": "Meta title of the product",
+        "meta_description": "Meta description of the product",
+        "meta_keyword": "demo, keyword, demo2",
+        "tag": "Product's tag, comma separeted"
+      }
+    ],
+    "product_category": [
+      "25"
+    ],
+    "product_special": [
+      {
+        "customer_group_id": "1",
+        "price": "200",
+        "priority": "1",
+        "date_start": "2015-02-23",
+        "date_end": "2019-02-23"
+      }
+    ],
+    "product_discount": [
+      {
+        "name": "demo name",
+        "customer_group_id": "1",
+        "price": "200",
+        "priority": "1",
+        "quantity": "1",
+        "date_start": "2015-02-23",
+        "date_end": "2019-02-23"
+      }
+    ],
+    "product_attribute": [
+      {
+        "attribute_id": "16",
+        "product_attribute_description": [
+          {
+            "text": "demo name",
+            "language_id": "1"
+          }
+        ]
+      }
+    ],
+    "product_option": [
+      {
+        "type": "radio",
+        "option_id": "11",
+        "required": "1",
+        "product_option_value": [
+          {
+            "price": "10.00",
+            "price_prefix": "+",
+            "subtract": "1",
+            "points": "0",
+            "points_prefix": "+",
+            "weight": "0",
+            "weight_prefix": "+",
+            "option_value_id": "46",
+            "quantity": "0"
+          }
+        ]
+      }
+    ]
+  }
+]
