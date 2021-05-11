@@ -32,7 +32,7 @@ public class TestApi {
 	
 
 	@Test(priority=0)
-	public void login() throws IOException
+	public void login() throws IOException 
 	{
 		String loginpayload = PayloadConverter.generatePayloadString("Login.json");
 		String endpointuri = URL.getEndpoints("/login");
